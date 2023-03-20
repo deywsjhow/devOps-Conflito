@@ -1,2 +1,4 @@
-# devOps-Conflito
-Conflitos git
+- Mercurial
+- GitHub
+- Subversion
+- CVS
