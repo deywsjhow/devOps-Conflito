@@ -1,4 +1,4 @@
 - Mercurial
-- Git
+- GitH
 - Subversion
 - CVS
